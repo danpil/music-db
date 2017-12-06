@@ -1,0 +1,19 @@
+<template>
+  <div>
+    {{ pageName }}
+  </div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      pageName: 'albums.index',
+    };
+  },
+};
+</script>
+
+<style>
+
+</style>
